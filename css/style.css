@@ -9,9 +9,9 @@
   padding: 1rem;
 }
 .btn {
-  background: coral;
+  background: rgb(62, 95, 13);
   color:#fff;
-  border: none;
+  border-radius: 20px;
   outline: none;
   cursor: pointer;
   padding: 0.7rem 2rem;
@@ -22,7 +22,15 @@
 }
 
 .page-info {
-  margin-left: 1rem;
+  margin-left: 7rem;
+}
+
+#prev-page {
+  margin-left: 5rem;
+}
+
+#next-page {
+  margin-left: 5rem;
 }
 
 .error {
